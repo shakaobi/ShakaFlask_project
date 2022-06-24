@@ -1,0 +1,1071 @@
+2021-10-13 10:12:51,323: * Debugger is active!
+2021-10-13 10:12:51,336: * Debugger PIN: 552-086-682
+2021-10-13 10:12:51,632: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 10:13:30,698:127.0.0.1 - - [13/Oct/2021 10:13:30] "POST /register HTTP/1.1" 200 -
+2021-10-13 10:13:34,294:127.0.0.1 - - [13/Oct/2021 10:13:34] "GET /login HTTP/1.1" 200 -
+2021-10-13 10:13:43,204:127.0.0.1 - - [13/Oct/2021 10:13:43] "POST /login HTTP/1.1" 200 -
+2021-10-13 10:15:41,371: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 10:15:43,384: * Debugger is active!
+2021-10-13 10:15:43,393: * Debugger PIN: 552-086-682
+2021-10-13 10:15:43,716: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 10:15:51,356:127.0.0.1 - - [13/Oct/2021 10:15:51] "POST /login HTTP/1.1" 200 -
+2021-10-13 10:15:58,496:127.0.0.1 - - [13/Oct/2021 10:15:58] "POST /login HTTP/1.1" 200 -
+2021-10-13 10:16:41,357:127.0.0.1 - - [13/Oct/2021 10:16:41] "POST /login HTTP/1.1" 200 -
+2021-10-13 10:17:07,505:127.0.0.1 - - [13/Oct/2021 10:17:07] "POST /login HTTP/1.1" 200 -
+2021-10-13 12:21:16,658: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 12:21:19,619: * Debugger is active!
+2021-10-13 12:21:19,634: * Debugger PIN: 552-086-682
+2021-10-13 12:21:20,095: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:21:34,265:127.0.0.1 - - [13/Oct/2021 12:21:34] "POST /login HTTP/1.1" 200 -
+2021-10-13 12:22:36,471:127.0.0.1 - - [13/Oct/2021 12:22:36] "GET /register HTTP/1.1" 200 -
+2021-10-13 12:23:22,666:127.0.0.1 - - [13/Oct/2021 12:23:22] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:24:15,205:127.0.0.1 - - [13/Oct/2021 12:24:15] "GET /login HTTP/1.1" 200 -
+2021-10-13 12:26:53,032:127.0.0.1 - - [13/Oct/2021 12:26:53] "GET /register HTTP/1.1" 200 -
+2021-10-13 12:27:11,193:127.0.0.1 - - [13/Oct/2021 12:27:11] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:29:10,026: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:29:11,993: * Debugger is active!
+2021-10-13 12:29:12,001: * Debugger PIN: 552-086-682
+2021-10-13 12:29:12,251: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:29:15,186:127.0.0.1 - - [13/Oct/2021 12:29:15] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:29:30,598:127.0.0.1 - - [13/Oct/2021 12:29:30] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:30:07,130: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:30:08,982: * Debugger is active!
+2021-10-13 12:30:08,991: * Debugger PIN: 552-086-682
+2021-10-13 12:30:09,254: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:30:39,022: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:30:41,117: * Debugger is active!
+2021-10-13 12:30:41,124: * Debugger PIN: 552-086-682
+2021-10-13 12:30:41,396: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:30:44,714:127.0.0.1 - - [13/Oct/2021 12:30:44] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:31:03,125:127.0.0.1 - - [13/Oct/2021 12:31:03] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:34:47,155: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:34:48,912: * Debugger is active!
+2021-10-13 12:34:48,920: * Debugger PIN: 552-086-682
+2021-10-13 12:34:49,184: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:34:49,509:127.0.0.1 - - [13/Oct/2021 12:34:49] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:37:16,968: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:37:20,632: * Debugger is active!
+2021-10-13 12:37:20,641: * Debugger PIN: 552-086-682
+2021-10-13 12:37:20,906: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:37:32,554:127.0.0.1 - - [13/Oct/2021 12:37:32] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:38:41,338:127.0.0.1 - - [13/Oct/2021 12:38:41] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:41:40,305: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:41:42,441: * Debugger is active!
+2021-10-13 12:41:42,477: * Debugger PIN: 552-086-682
+2021-10-13 12:41:42,841: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:41:47,242:127.0.0.1 - - [13/Oct/2021 12:41:47] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:42:10,442:127.0.0.1 - - [13/Oct/2021 12:42:10] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:46:15,747: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 12:46:18,628: * Debugger is active!
+2021-10-13 12:46:18,638: * Debugger PIN: 552-086-682
+2021-10-13 12:46:19,022: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 12:46:23,240:127.0.0.1 - - [13/Oct/2021 12:46:23] "POST /register HTTP/1.1" 200 -
+2021-10-13 12:46:41,372:127.0.0.1 - - [13/Oct/2021 12:46:41] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:02:19,619: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:02:21,602: * Debugger is active!
+2021-10-13 13:02:21,621: * Debugger PIN: 552-086-682
+2021-10-13 13:02:21,970: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 13:02:44,588:127.0.0.1 - - [13/Oct/2021 13:02:44] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:03:05,246:127.0.0.1 - - [13/Oct/2021 13:03:05] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:04:03,681: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:04:05,913: * Debugger is active!
+2021-10-13 13:04:05,923: * Debugger PIN: 552-086-682
+2021-10-13 13:04:06,199: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 13:04:16,252:127.0.0.1 - - [13/Oct/2021 13:04:16] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:04:34,537:127.0.0.1 - - [13/Oct/2021 13:04:34] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:05:54,108: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:05:56,619: * Debugger is active!
+2021-10-13 13:05:56,636: * Debugger PIN: 552-086-682
+2021-10-13 13:05:57,356: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 13:06:01,508:127.0.0.1 - - [13/Oct/2021 13:06:01] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:06:10,954:127.0.0.1 - - [13/Oct/2021 13:06:10] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:16:06,814: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:16:09,061: * Debugger is active!
+2021-10-13 13:16:09,068: * Debugger PIN: 552-086-682
+2021-10-13 13:16:09,383: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 13:16:12,524:127.0.0.1 - - [13/Oct/2021 13:16:12] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:16:26,778:127.0.0.1 - - [13/Oct/2021 13:16:26] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:16:54,576: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:16:56,596: * Debugger is active!
+2021-10-13 13:16:56,605: * Debugger PIN: 552-086-682
+2021-10-13 13:16:56,893: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 13:16:57,821:127.0.0.1 - - [13/Oct/2021 13:16:57] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:17:07,307:127.0.0.1 - - [13/Oct/2021 13:17:07] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:32:29,480: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:32:31,894: * Debugger is active!
+2021-10-13 13:32:31,907: * Debugger PIN: 552-086-682
+2021-10-13 13:32:32,276: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 13:32:36,525:127.0.0.1 - - [13/Oct/2021 13:32:36] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:32:46,996:127.0.0.1 - - [13/Oct/2021 13:32:46] "POST /register HTTP/1.1" 200 -
+2021-10-13 13:59:39,917: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 13:59:42,636: * Debugger is active!
+2021-10-13 13:59:42,647: * Debugger PIN: 552-086-682
+2021-10-13 13:59:42,977: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:00:02,285:127.0.0.1 - - [13/Oct/2021 14:00:02] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:01:45,312: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:01:47,248: * Debugger is active!
+2021-10-13 14:01:47,255: * Debugger PIN: 552-086-682
+2021-10-13 14:01:47,508: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:01:50,224:127.0.0.1 - - [13/Oct/2021 14:01:50] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:02:18,199: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:02:20,330: * Debugger is active!
+2021-10-13 14:02:20,344: * Debugger PIN: 552-086-682
+2021-10-13 14:02:20,643: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:02:23,470:127.0.0.1 - - [13/Oct/2021 14:02:23] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:02:36,856:127.0.0.1 - - [13/Oct/2021 14:02:36] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:02:42,806:127.0.0.1 - - [13/Oct/2021 14:02:42] "GET /login HTTP/1.1" 200 -
+2021-10-13 14:02:46,318:127.0.0.1 - - [13/Oct/2021 14:02:46] "GET /register HTTP/1.1" 200 -
+2021-10-13 14:03:31,743:127.0.0.1 - - [13/Oct/2021 14:03:31] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:04:29,517: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:04:31,488: * Debugger is active!
+2021-10-13 14:04:31,495: * Debugger PIN: 552-086-682
+2021-10-13 14:04:31,762: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:04:34,769:127.0.0.1 - - [13/Oct/2021 14:04:34] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:04:45,928:127.0.0.1 - - [13/Oct/2021 14:04:45] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:05:57,135: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:05:58,930: * Debugger is active!
+2021-10-13 14:05:58,937: * Debugger PIN: 552-086-682
+2021-10-13 14:05:59,203: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:06:03,753:127.0.0.1 - - [13/Oct/2021 14:06:03] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:06:15,006:127.0.0.1 - - [13/Oct/2021 14:06:15] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:06:44,928: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:06:46,927: * Debugger is active!
+2021-10-13 14:06:46,938: * Debugger PIN: 552-086-682
+2021-10-13 14:06:47,222: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:07:22,552:127.0.0.1 - - [13/Oct/2021 14:07:22] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:15:09,599: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:15:12,006: * Debugger is active!
+2021-10-13 14:15:12,015: * Debugger PIN: 552-086-682
+2021-10-13 14:15:12,288: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:15:22,755:127.0.0.1 - - [13/Oct/2021 14:15:22] "POST /login HTTP/1.1" 200 -
+2021-10-13 14:15:43,960:127.0.0.1 - - [13/Oct/2021 14:15:43] "GET / HTTP/1.1" 200 -
+2021-10-13 14:15:44,002:127.0.0.1 - - [13/Oct/2021 14:15:44] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 14:15:44,297:127.0.0.1 - - [13/Oct/2021 14:15:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 14:15:53,983:127.0.0.1 - - [13/Oct/2021 14:15:53] "GET /login HTTP/1.1" 200 -
+2021-10-13 14:15:58,292:127.0.0.1 - - [13/Oct/2021 14:15:58] "GET /register HTTP/1.1" 200 -
+2021-10-13 14:16:17,072:127.0.0.1 - - [13/Oct/2021 14:16:17] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:18:03,241: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:18:05,246: * Debugger is active!
+2021-10-13 14:18:05,255: * Debugger PIN: 552-086-682
+2021-10-13 14:18:05,510: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:25:24,059: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 14:25:25,870: * Debugger is active!
+2021-10-13 14:25:25,878: * Debugger PIN: 552-086-682
+2021-10-13 14:25:26,191: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:40:29,639: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 14:40:32,433: * Debugger is active!
+2021-10-13 14:40:32,442: * Debugger PIN: 552-086-682
+2021-10-13 14:40:32,791: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:40:52,893:127.0.0.1 - - [13/Oct/2021 14:40:52] "POST /register HTTP/1.1" 200 -
+2021-10-13 14:42:48,457: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:42:50,519: * Debugger is active!
+2021-10-13 14:42:50,535: * Debugger PIN: 552-086-682
+2021-10-13 14:42:50,865: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:46:29,006: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:46:30,317: * Debugger is active!
+2021-10-13 14:46:30,326: * Debugger PIN: 552-086-682
+2021-10-13 14:46:30,550: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:46:43,132: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:46:44,328: * Debugger is active!
+2021-10-13 14:46:44,335: * Debugger PIN: 552-086-682
+2021-10-13 14:46:44,624: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:48:42,123: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:48:43,376: * Debugger is active!
+2021-10-13 14:48:43,385: * Debugger PIN: 552-086-682
+2021-10-13 14:48:43,627: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:50:29,670: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 14:50:30,713: * Debugger is active!
+2021-10-13 14:50:30,722: * Debugger PIN: 552-086-682
+2021-10-13 14:50:30,937: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 14:52:15,888: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:00:50,835: * Restarting with stat
+2021-10-13 15:00:51,760: * Debugger is active!
+2021-10-13 15:00:51,771: * Debugger PIN: 552-086-682
+2021-10-13 15:00:52,027: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:00:59,039:127.0.0.1 - - [13/Oct/2021 15:00:59] "GET / HTTP/1.1" 200 -
+2021-10-13 15:00:59,136:127.0.0.1 - - [13/Oct/2021 15:00:59] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 15:00:59,421:127.0.0.1 - - [13/Oct/2021 15:00:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 15:01:02,122:127.0.0.1 - - [13/Oct/2021 15:01:02] "GET /login HTTP/1.1" 200 -
+2021-10-13 15:01:13,287:127.0.0.1 - - [13/Oct/2021 15:01:13] "POST /login HTTP/1.1" 200 -
+2021-10-13 15:01:17,645:127.0.0.1 - - [13/Oct/2021 15:01:17] "GET /register HTTP/1.1" 200 -
+2021-10-13 15:01:32,435:127.0.0.1 - - [13/Oct/2021 15:01:32] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:02:18,929: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:02:19,051: * Restarting with stat
+2021-10-13 15:02:20,586: * Debugger is active!
+2021-10-13 15:02:20,599: * Debugger PIN: 552-086-682
+2021-10-13 15:02:21,243: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:04:38,659: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:04:38,809: * Restarting with stat
+2021-10-13 15:04:40,132: * Debugger is active!
+2021-10-13 15:04:40,145: * Debugger PIN: 552-086-682
+2021-10-13 15:04:40,498: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:06:03,806: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:06:03,931: * Restarting with stat
+2021-10-13 15:06:04,912: * Debugger is active!
+2021-10-13 15:06:04,925: * Debugger PIN: 552-086-682
+2021-10-13 15:06:05,244: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:06:31,109:127.0.0.1 - - [13/Oct/2021 15:06:31] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:06:47,609:127.0.0.1 - - [13/Oct/2021 15:06:47] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:07:37,453: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:07:37,576: * Restarting with stat
+2021-10-13 15:07:38,638: * Debugger is active!
+2021-10-13 15:07:38,658: * Debugger PIN: 552-086-682
+2021-10-13 15:07:39,138: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:07:39,975:127.0.0.1 - - [13/Oct/2021 15:07:39] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:07:58,853:127.0.0.1 - - [13/Oct/2021 15:07:58] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:08:33,180: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:08:33,273: * Restarting with stat
+2021-10-13 15:08:35,138: * Debugger is active!
+2021-10-13 15:08:35,148: * Debugger PIN: 552-086-682
+2021-10-13 15:08:35,384: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:08:42,388: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:08:42,501: * Restarting with stat
+2021-10-13 15:08:43,621: * Debugger is active!
+2021-10-13 15:08:43,631: * Debugger PIN: 552-086-682
+2021-10-13 15:08:43,856: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:08:56,001:127.0.0.1 - - [13/Oct/2021 15:08:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-10-13 15:08:56,562:127.0.0.1 - - [13/Oct/2021 15:08:56] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 15:08:56,574:127.0.0.1 - - [13/Oct/2021 15:08:56] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 15:08:56,596:127.0.0.1 - - [13/Oct/2021 15:08:56] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:08:56,674:127.0.0.1 - - [13/Oct/2021 15:08:56] "GET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 15:08:56,695:127.0.0.1 - - [13/Oct/2021 15:08:56] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:15:25,844: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:15:25,935: * Restarting with stat
+2021-10-13 15:15:27,157: * Debugger is active!
+2021-10-13 15:15:27,166: * Debugger PIN: 552-086-682
+2021-10-13 15:15:27,383: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:15:56,847:127.0.0.1 - - [13/Oct/2021 15:15:56] "GET / HTTP/1.1" 200 -
+2021-10-13 15:15:56,914:127.0.0.1 - - [13/Oct/2021 15:15:56] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 15:15:57,218:127.0.0.1 - - [13/Oct/2021 15:15:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 15:15:59,376:127.0.0.1 - - [13/Oct/2021 15:15:59] "GET /register HTTP/1.1" 200 -
+2021-10-13 15:16:13,362:127.0.0.1 - - [13/Oct/2021 15:16:13] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:16:41,578: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:16:41,820: * Restarting with stat
+2021-10-13 15:16:42,997: * Debugger is active!
+2021-10-13 15:16:43,018: * Debugger PIN: 552-086-682
+2021-10-13 15:16:43,597: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:17:07,543:127.0.0.1 - - [13/Oct/2021 15:17:07] "GET / HTTP/1.1" 200 -
+2021-10-13 15:17:07,599:127.0.0.1 - - [13/Oct/2021 15:17:07] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 15:17:07,864:127.0.0.1 - - [13/Oct/2021 15:17:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 15:17:09,494:127.0.0.1 - - [13/Oct/2021 15:17:09] "GET /register HTTP/1.1" 200 -
+2021-10-13 15:17:24,515:127.0.0.1 - - [13/Oct/2021 15:17:24] "POST /register HTTP/1.1" 200 -
+2021-10-13 15:23:04,458: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:23:04,765: * Restarting with stat
+2021-10-13 15:23:06,922: * Debugger is active!
+2021-10-13 15:23:06,929: * Debugger PIN: 552-086-682
+2021-10-13 15:23:07,761: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:24:05,167: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:24:05,279: * Restarting with stat
+2021-10-13 15:24:06,269: * Debugger is active!
+2021-10-13 15:24:06,276: * Debugger PIN: 552-086-682
+2021-10-13 15:24:06,599: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:24:42,768:127.0.0.1 - - [13/Oct/2021 15:24:42] "GET / HTTP/1.1" 200 -
+2021-10-13 15:24:42,808:127.0.0.1 - - [13/Oct/2021 15:24:42] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 15:24:43,098:127.0.0.1 - - [13/Oct/2021 15:24:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 15:24:46,044:127.0.0.1 - - [13/Oct/2021 15:24:46] "GET /register HTTP/1.1" 200 -
+2021-10-13 15:24:56,362:127.0.0.1 - - [13/Oct/2021 15:24:56] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-10-13 15:24:56,427:127.0.0.1 - - [13/Oct/2021 15:24:56] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 15:24:56,432:127.0.0.1 - - [13/Oct/2021 15:24:56] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 15:24:56,468:127.0.0.1 - - [13/Oct/2021 15:24:56] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:24:56,489:127.0.0.1 - - [13/Oct/2021 15:24:56] "GET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 15:24:56,557:127.0.0.1 - - [13/Oct/2021 15:24:56] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:30:01,096: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:30:01,236: * Restarting with stat
+2021-10-13 15:30:02,392: * Debugger is active!
+2021-10-13 15:30:02,403: * Debugger PIN: 552-086-682
+2021-10-13 15:30:02,767: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:30:22,666:127.0.0.1 - - [13/Oct/2021 15:30:22] "GET / HTTP/1.1" 200 -
+2021-10-13 15:30:22,749:127.0.0.1 - - [13/Oct/2021 15:30:22] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 15:30:23,117:127.0.0.1 - - [13/Oct/2021 15:30:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 15:31:58,941:127.0.0.1 - - [13/Oct/2021 15:31:58] "GET /register HTTP/1.1" 200 -
+2021-10-13 15:32:13,157:127.0.0.1 - - [13/Oct/2021 15:32:13] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-10-13 15:32:13,260:127.0.0.1 - - [13/Oct/2021 15:32:13] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 15:32:13,261:127.0.0.1 - - [13/Oct/2021 15:32:13] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 15:32:13,287:127.0.0.1 - - [13/Oct/2021 15:32:13] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:32:13,337:127.0.0.1 - - [13/Oct/2021 15:32:13] "GET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 15:32:13,386:127.0.0.1 - - [13/Oct/2021 15:32:13] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:34:52,393: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:34:52,534: * Restarting with stat
+2021-10-13 15:34:53,896: * Debugger is active!
+2021-10-13 15:34:53,903: * Debugger PIN: 552-086-682
+2021-10-13 15:34:54,181: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:34:54,718:127.0.0.1 - - [13/Oct/2021 15:34:54] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-10-13 15:34:55,286:127.0.0.1 - - [13/Oct/2021 15:34:55] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 15:34:55,287:127.0.0.1 - - [13/Oct/2021 15:34:55] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 15:34:55,302:127.0.0.1 - - [13/Oct/2021 15:34:55] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:34:55,322:127.0.0.1 - - [13/Oct/2021 15:34:55] "GET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 15:34:55,345:127.0.0.1 - - [13/Oct/2021 15:34:55] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:43:14,898: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:43:14,989: * Restarting with stat
+2021-10-13 15:43:16,123: * Debugger is active!
+2021-10-13 15:43:16,134: * Debugger PIN: 552-086-682
+2021-10-13 15:43:16,458: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 15:43:35,477:127.0.0.1 - - [13/Oct/2021 15:43:35] "GET / HTTP/1.1" 200 -
+2021-10-13 15:43:35,527:127.0.0.1 - - [13/Oct/2021 15:43:35] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 15:43:35,803:127.0.0.1 - - [13/Oct/2021 15:43:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 15:43:38,402:127.0.0.1 - - [13/Oct/2021 15:43:38] "GET /register HTTP/1.1" 200 -
+2021-10-13 15:43:50,004:127.0.0.1 - - [13/Oct/2021 15:43:50] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2021-10-13 15:43:50,048:127.0.0.1 - - [13/Oct/2021 15:43:50] "GET /register?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 15:43:50,048:127.0.0.1 - - [13/Oct/2021 15:43:50] "GET /register?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 15:43:50,067:127.0.0.1 - - [13/Oct/2021 15:43:50] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:43:50,090:127.0.0.1 - - [13/Oct/2021 15:43:50] "GET /register?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 15:43:50,132:127.0.0.1 - - [13/Oct/2021 15:43:50] "GET /register?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 15:44:51,200: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 15:44:51,338: * Restarting with stat
+2021-10-13 15:44:52,423: * Debugger is active!
+2021-10-13 15:44:52,433: * Debugger PIN: 552-086-682
+2021-10-13 15:44:52,726: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 16:27:59,600: * Restarting with stat
+2021-10-13 16:28:00,643: * Debugger is active!
+2021-10-13 16:28:00,649: * Debugger PIN: 552-086-682
+2021-10-13 16:28:00,974: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 16:28:22,068:127.0.0.1 - - [13/Oct/2021 16:28:22] "GET / HTTP/1.1" 200 -
+2021-10-13 16:28:22,128:127.0.0.1 - - [13/Oct/2021 16:28:22] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 16:28:22,371:127.0.0.1 - - [13/Oct/2021 16:28:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 16:29:14,820:127.0.0.1 - - [13/Oct/2021 16:29:14] "GET /register HTTP/1.1" 200 -
+2021-10-13 16:31:38,609:127.0.0.1 - - [13/Oct/2021 16:31:38] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:32:42,830:127.0.0.1 - - [13/Oct/2021 16:32:42] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:37:15,489:127.0.0.1 - - [13/Oct/2021 16:37:15] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:41:49,026: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 16:41:49,464: * Restarting with stat
+2021-10-13 16:41:51,954: * Debugger is active!
+2021-10-13 16:41:51,972: * Debugger PIN: 552-086-682
+2021-10-13 16:41:52,342: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 16:41:53,463:127.0.0.1 - - [13/Oct/2021 16:41:53] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:41:57,918:127.0.0.1 - - [13/Oct/2021 16:41:57] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:43:06,711: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 16:43:06,815: * Restarting with stat
+2021-10-13 16:43:08,180: * Debugger is active!
+2021-10-13 16:43:08,195: * Debugger PIN: 552-086-682
+2021-10-13 16:43:08,565: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 16:43:17,204: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 16:43:17,304: * Restarting with stat
+2021-10-13 16:43:18,654: * Debugger is active!
+2021-10-13 16:43:18,673: * Debugger PIN: 552-086-682
+2021-10-13 16:43:19,012: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 16:43:28,433:127.0.0.1 - - [13/Oct/2021 16:43:28] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:43:45,586:127.0.0.1 - - [13/Oct/2021 16:43:45] "GET / HTTP/1.1" 200 -
+2021-10-13 16:43:45,652:127.0.0.1 - - [13/Oct/2021 16:43:45] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 16:43:45,990:127.0.0.1 - - [13/Oct/2021 16:43:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 16:43:46,714:127.0.0.1 - - [13/Oct/2021 16:43:46] "GET /login HTTP/1.1" 200 -
+2021-10-13 16:43:50,050:127.0.0.1 - - [13/Oct/2021 16:43:50] "GET /register HTTP/1.1" 200 -
+2021-10-13 16:44:06,450:127.0.0.1 - - [13/Oct/2021 16:44:06] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:44:20,956: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 16:44:21,093: * Restarting with stat
+2021-10-13 16:44:22,138: * Debugger is active!
+2021-10-13 16:44:22,149: * Debugger PIN: 552-086-682
+2021-10-13 16:44:22,419: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 16:44:27,059:127.0.0.1 - - [13/Oct/2021 16:44:27] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:44:38,882:127.0.0.1 - - [13/Oct/2021 16:44:38] "POST /register HTTP/1.1" 200 -
+2021-10-13 16:47:44,083:127.0.0.1 - - [13/Oct/2021 16:47:44] "[32mPOST /register HTTP/1.1[0m" 302 -
+2021-10-13 16:47:44,100:127.0.0.1 - - [13/Oct/2021 16:47:44] "GET /login HTTP/1.1" 200 -
+2021-10-13 16:51:24,009:127.0.0.1 - - [13/Oct/2021 16:51:24] "POST /login HTTP/1.1" 200 -
+2021-10-13 16:54:03,769:127.0.0.1 - - [13/Oct/2021 16:54:03] "POST /login HTTP/1.1" 200 -
+2021-10-13 16:54:09,621:127.0.0.1 - - [13/Oct/2021 16:54:09] "POST /login HTTP/1.1" 200 -
+2021-10-13 16:56:55,072:127.0.0.1 - - [13/Oct/2021 16:56:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 16:56:55,218:127.0.0.1 - - [13/Oct/2021 16:56:55] "GET /home HTTP/1.1" 200 -
+2021-10-13 16:56:55,291:127.0.0.1 - - [13/Oct/2021 16:56:55] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 16:56:55,637:127.0.0.1 - - [13/Oct/2021 16:56:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 16:58:43,650:127.0.0.1 - - [13/Oct/2021 16:58:43] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 16:58:43,667:127.0.0.1 - - [13/Oct/2021 16:58:43] "GET /register HTTP/1.1" 200 -
+2021-10-13 16:59:50,082:127.0.0.1 - - [13/Oct/2021 16:59:50] "POST /register HTTP/1.1" 200 -
+2021-10-13 17:01:59,880:127.0.0.1 - - [13/Oct/2021 17:01:59] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:02:07,930:127.0.0.1 - - [13/Oct/2021 17:02:07] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:02:07,938:127.0.0.1 - - [13/Oct/2021 17:02:07] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:02:07,998:127.0.0.1 - - [13/Oct/2021 17:02:07] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:02:08,000:127.0.0.1 - - [13/Oct/2021 17:02:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:02:32,618:127.0.0.1 - - [13/Oct/2021 17:02:32] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:05:22,174:127.0.0.1 - - [13/Oct/2021 17:05:22] "[32mPOST /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 17:05:22,186:127.0.0.1 - - [13/Oct/2021 17:05:22] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:05:22,198:127.0.0.1 - - [13/Oct/2021 17:05:22] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:05:22,299:127.0.0.1 - - [13/Oct/2021 17:05:22] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:05:22,303:127.0.0.1 - - [13/Oct/2021 17:05:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:05:46,121:127.0.0.1 - - [13/Oct/2021 17:05:46] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:06:14,902:127.0.0.1 - - [13/Oct/2021 17:06:14] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:06:14,963:127.0.0.1 - - [13/Oct/2021 17:06:14] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:06:14,965:127.0.0.1 - - [13/Oct/2021 17:06:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:06:59,022:127.0.0.1 - - [13/Oct/2021 17:06:59] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:06:59,028:127.0.0.1 - - [13/Oct/2021 17:06:59] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:07:02,156:127.0.0.1 - - [13/Oct/2021 17:07:02] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:08:55,764:127.0.0.1 - - [13/Oct/2021 17:08:55] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:09:03,536:127.0.0.1 - - [13/Oct/2021 17:09:03] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:09:21,196:127.0.0.1 - - [13/Oct/2021 17:09:21] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:09:40,505:127.0.0.1 - - [13/Oct/2021 17:09:40] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:09:48,709:127.0.0.1 - - [13/Oct/2021 17:09:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:09:48,718:127.0.0.1 - - [13/Oct/2021 17:09:48] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:09:48,781:127.0.0.1 - - [13/Oct/2021 17:09:48] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:09:48,783:127.0.0.1 - - [13/Oct/2021 17:09:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:10:05,158:127.0.0.1 - - [13/Oct/2021 17:10:05] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:10:17,970:127.0.0.1 - - [13/Oct/2021 17:10:17] "[32mPOST /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 17:10:17,978:127.0.0.1 - - [13/Oct/2021 17:10:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:10:17,988:127.0.0.1 - - [13/Oct/2021 17:10:17] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:10:18,030:127.0.0.1 - - [13/Oct/2021 17:10:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:10:18,034:127.0.0.1 - - [13/Oct/2021 17:10:18] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:10:22,918:127.0.0.1 - - [13/Oct/2021 17:10:22] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:10:22,933:127.0.0.1 - - [13/Oct/2021 17:10:22] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:10:24,270:127.0.0.1 - - [13/Oct/2021 17:10:24] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:10:36,279:127.0.0.1 - - [13/Oct/2021 17:10:36] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:13:33,738: * Restarting with stat
+2021-10-13 17:13:35,019: * Debugger is active!
+2021-10-13 17:13:35,038: * Debugger PIN: 552-086-682
+2021-10-13 17:13:35,367: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:13:36,017:127.0.0.1 - - [13/Oct/2021 17:13:36] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:14:04,617:127.0.0.1 - - [13/Oct/2021 17:14:04] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:14:16,922:127.0.0.1 - - [13/Oct/2021 17:14:16] "POST /register HTTP/1.1" 200 -
+2021-10-13 17:14:22,049:127.0.0.1 - - [13/Oct/2021 17:14:22] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:14:38,822:127.0.0.1 - - [13/Oct/2021 17:14:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:14:38,841:127.0.0.1 - - [13/Oct/2021 17:14:38] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:14:38,925:127.0.0.1 - - [13/Oct/2021 17:14:38] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:14:39,233:127.0.0.1 - - [13/Oct/2021 17:14:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:14:42,230:127.0.0.1 - - [13/Oct/2021 17:14:42] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:15:05,997:127.0.0.1 - - [13/Oct/2021 17:15:05] "[32mPOST /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 17:15:06,007:127.0.0.1 - - [13/Oct/2021 17:15:06] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:15:06,020:127.0.0.1 - - [13/Oct/2021 17:15:06] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:15:06,093:127.0.0.1 - - [13/Oct/2021 17:15:06] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:15:06,095:127.0.0.1 - - [13/Oct/2021 17:15:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:16:06,973:127.0.0.1 - - [13/Oct/2021 17:16:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:16:06,985:127.0.0.1 - - [13/Oct/2021 17:16:06] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:16:09,341:127.0.0.1 - - [13/Oct/2021 17:16:09] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:16:19,301:127.0.0.1 - - [13/Oct/2021 17:16:19] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:17:16,291:127.0.0.1 - - [13/Oct/2021 17:17:16] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:17:16,301:127.0.0.1 - - [13/Oct/2021 17:17:16] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:17:16,395:127.0.0.1 - - [13/Oct/2021 17:17:16] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:17:16,399:127.0.0.1 - - [13/Oct/2021 17:17:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:17:22,290:127.0.0.1 - - [13/Oct/2021 17:17:22] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:17:38,048:127.0.0.1 - - [13/Oct/2021 17:17:38] "[32mPOST /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 17:17:38,061:127.0.0.1 - - [13/Oct/2021 17:17:38] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:17:38,075:127.0.0.1 - - [13/Oct/2021 17:17:38] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:17:38,174:127.0.0.1 - - [13/Oct/2021 17:17:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:17:38,177:127.0.0.1 - - [13/Oct/2021 17:17:38] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:30:10,268: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:30:10,484: * Restarting with stat
+2021-10-13 17:30:11,979: * Debugger is active!
+2021-10-13 17:30:11,996: * Debugger PIN: 552-086-682
+2021-10-13 17:30:12,251: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:30:26,361:127.0.0.1 - - [13/Oct/2021 17:30:26] "GET / HTTP/1.1" 200 -
+2021-10-13 17:30:26,406:127.0.0.1 - - [13/Oct/2021 17:30:26] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:30:26,770:127.0.0.1 - - [13/Oct/2021 17:30:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:30:34,755:127.0.0.1 - - [13/Oct/2021 17:30:34] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:30:34,773:127.0.0.1 - - [13/Oct/2021 17:30:34] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:30:34,833:127.0.0.1 - - [13/Oct/2021 17:30:34] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:30:34,837:127.0.0.1 - - [13/Oct/2021 17:30:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:30:38,133:127.0.0.1 - - [13/Oct/2021 17:30:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:30:38,162:127.0.0.1 - - [13/Oct/2021 17:30:38] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:30:40,678:127.0.0.1 - - [13/Oct/2021 17:30:40] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:30:48,476:127.0.0.1 - - [13/Oct/2021 17:30:48] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:30:51,784:127.0.0.1 - - [13/Oct/2021 17:30:51] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:30:53,450:127.0.0.1 - - [13/Oct/2021 17:30:53] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:32:03,834: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:32:03,926: * Restarting with stat
+2021-10-13 17:32:04,971: * Debugger is active!
+2021-10-13 17:32:04,984: * Debugger PIN: 552-086-682
+2021-10-13 17:32:05,263: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:32:08,310:127.0.0.1 - - [13/Oct/2021 17:32:08] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:32:22,822:127.0.0.1 - - [13/Oct/2021 17:32:22] "GET / HTTP/1.1" 200 -
+2021-10-13 17:32:22,893:127.0.0.1 - - [13/Oct/2021 17:32:22] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:32:23,314:127.0.0.1 - - [13/Oct/2021 17:32:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:32:30,313:127.0.0.1 - - [13/Oct/2021 17:32:30] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:32:39,098:127.0.0.1 - - [13/Oct/2021 17:32:39] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:33:49,030: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:33:49,122: * Restarting with stat
+2021-10-13 17:33:50,264: * Debugger is active!
+2021-10-13 17:33:50,272: * Debugger PIN: 552-086-682
+2021-10-13 17:33:50,498: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:34:02,388:127.0.0.1 - - [13/Oct/2021 17:34:02] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:34:12,135:127.0.0.1 - - [13/Oct/2021 17:34:12] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:34:20,567:127.0.0.1 - - [13/Oct/2021 17:34:20] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:34:20,580:127.0.0.1 - - [13/Oct/2021 17:34:20] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:34:20,636:127.0.0.1 - - [13/Oct/2021 17:34:20] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:34:20,957:127.0.0.1 - - [13/Oct/2021 17:34:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:39:08,255: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:39:08,350: * Restarting with stat
+2021-10-13 17:39:09,318: * Debugger is active!
+2021-10-13 17:39:09,327: * Debugger PIN: 552-086-682
+2021-10-13 17:39:09,612: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:39:23,278:127.0.0.1 - - [13/Oct/2021 17:39:23] "GET / HTTP/1.1" 200 -
+2021-10-13 17:39:23,334:127.0.0.1 - - [13/Oct/2021 17:39:23] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:39:23,627:127.0.0.1 - - [13/Oct/2021 17:39:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:39:31,641:127.0.0.1 - - [13/Oct/2021 17:39:31] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:39:31,657:127.0.0.1 - - [13/Oct/2021 17:39:31] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:39:31,710:127.0.0.1 - - [13/Oct/2021 17:39:31] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:39:31,713:127.0.0.1 - - [13/Oct/2021 17:39:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:39:34,207:127.0.0.1 - - [13/Oct/2021 17:39:34] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:39:34,231:127.0.0.1 - - [13/Oct/2021 17:39:34] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:39:35,891:127.0.0.1 - - [13/Oct/2021 17:39:35] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:39:48,644:127.0.0.1 - - [13/Oct/2021 17:39:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:39:48,659:127.0.0.1 - - [13/Oct/2021 17:39:48] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:39:48,715:127.0.0.1 - - [13/Oct/2021 17:39:48] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:39:48,716:127.0.0.1 - - [13/Oct/2021 17:39:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:39:51,547:127.0.0.1 - - [13/Oct/2021 17:39:51] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:40:03,184:127.0.0.1 - - [13/Oct/2021 17:40:03] "[35m[1mPOST /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 17:40:03,230:127.0.0.1 - - [13/Oct/2021 17:40:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 17:40:03,231:127.0.0.1 - - [13/Oct/2021 17:40:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 17:40:03,252:127.0.0.1 - - [13/Oct/2021 17:40:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 17:40:03,306:127.0.0.1 - - [13/Oct/2021 17:40:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 17:40:03,365:127.0.0.1 - - [13/Oct/2021 17:40:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 17:46:18,924: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:46:19,026: * Restarting with stat
+2021-10-13 17:46:19,987: * Debugger is active!
+2021-10-13 17:46:20,000: * Debugger PIN: 552-086-682
+2021-10-13 17:46:20,263: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:53:53,316: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:53:53,465: * Restarting with stat
+2021-10-13 17:53:54,530: * Debugger is active!
+2021-10-13 17:53:54,547: * Debugger PIN: 552-086-682
+2021-10-13 17:53:54,884: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:54:10,669:127.0.0.1 - - [13/Oct/2021 17:54:10] "GET / HTTP/1.1" 200 -
+2021-10-13 17:54:10,727:127.0.0.1 - - [13/Oct/2021 17:54:10] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:54:11,041:127.0.0.1 - - [13/Oct/2021 17:54:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:54:12,511:127.0.0.1 - - [13/Oct/2021 17:54:12] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:54:12,525:127.0.0.1 - - [13/Oct/2021 17:54:12] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:54:12,563:127.0.0.1 - - [13/Oct/2021 17:54:12] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:54:12,564:127.0.0.1 - - [13/Oct/2021 17:54:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:54:15,690:127.0.0.1 - - [13/Oct/2021 17:54:15] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:54:15,718:127.0.0.1 - - [13/Oct/2021 17:54:15] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:54:17,260:127.0.0.1 - - [13/Oct/2021 17:54:17] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:54:27,459:127.0.0.1 - - [13/Oct/2021 17:54:27] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:54:27,471:127.0.0.1 - - [13/Oct/2021 17:54:27] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:54:27,517:127.0.0.1 - - [13/Oct/2021 17:54:27] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:54:27,523:127.0.0.1 - - [13/Oct/2021 17:54:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:54:30,062:127.0.0.1 - - [13/Oct/2021 17:54:30] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:54:30,072:127.0.0.1 - - [13/Oct/2021 17:54:30] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:54:31,768:127.0.0.1 - - [13/Oct/2021 17:54:31] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:54:41,950:127.0.0.1 - - [13/Oct/2021 17:54:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 17:54:41,967:127.0.0.1 - - [13/Oct/2021 17:54:41] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:54:42,022:127.0.0.1 - - [13/Oct/2021 17:54:42] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:54:42,026:127.0.0.1 - - [13/Oct/2021 17:54:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:54:45,610:127.0.0.1 - - [13/Oct/2021 17:54:45] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:54:57,739:127.0.0.1 - - [13/Oct/2021 17:54:57] "[35m[1mPOST /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 17:54:57,786:127.0.0.1 - - [13/Oct/2021 17:54:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 17:54:57,788:127.0.0.1 - - [13/Oct/2021 17:54:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 17:54:57,805:127.0.0.1 - - [13/Oct/2021 17:54:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 17:54:57,826:127.0.0.1 - - [13/Oct/2021 17:54:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 17:54:57,863:127.0.0.1 - - [13/Oct/2021 17:54:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 17:55:36,380: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:55:36,522: * Restarting with stat
+2021-10-13 17:55:37,641: * Debugger is active!
+2021-10-13 17:55:37,650: * Debugger PIN: 552-086-682
+2021-10-13 17:55:37,874: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:55:52,044:127.0.0.1 - - [13/Oct/2021 17:55:52] "GET / HTTP/1.1" 200 -
+2021-10-13 17:55:52,147:127.0.0.1 - - [13/Oct/2021 17:55:52] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:55:52,435:127.0.0.1 - - [13/Oct/2021 17:55:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:55:53,967:127.0.0.1 - - [13/Oct/2021 17:55:53] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:55:53,979:127.0.0.1 - - [13/Oct/2021 17:55:53] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:55:54,019:127.0.0.1 - - [13/Oct/2021 17:55:54] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:55:54,022:127.0.0.1 - - [13/Oct/2021 17:55:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:55:58,703:127.0.0.1 - - [13/Oct/2021 17:55:58] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:56:11,798:127.0.0.1 - - [13/Oct/2021 17:56:11] "[35m[1mPOST /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 17:56:11,854:127.0.0.1 - - [13/Oct/2021 17:56:11] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 17:56:11,867:127.0.0.1 - - [13/Oct/2021 17:56:11] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 17:56:11,910:127.0.0.1 - - [13/Oct/2021 17:56:11] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 17:56:11,995:127.0.0.1 - - [13/Oct/2021 17:56:11] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 17:56:12,048:127.0.0.1 - - [13/Oct/2021 17:56:12] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 17:56:42,592: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 17:56:42,713: * Restarting with stat
+2021-10-13 17:56:43,788: * Debugger is active!
+2021-10-13 17:56:43,799: * Debugger PIN: 552-086-682
+2021-10-13 17:56:44,040: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 17:56:53,806:127.0.0.1 - - [13/Oct/2021 17:56:53] "GET / HTTP/1.1" 200 -
+2021-10-13 17:56:53,879:127.0.0.1 - - [13/Oct/2021 17:56:53] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:56:54,155:127.0.0.1 - - [13/Oct/2021 17:56:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:56:55,202:127.0.0.1 - - [13/Oct/2021 17:56:55] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:56:55,213:127.0.0.1 - - [13/Oct/2021 17:56:55] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:56:55,252:127.0.0.1 - - [13/Oct/2021 17:56:55] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:56:55,255:127.0.0.1 - - [13/Oct/2021 17:56:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:56:59,305:127.0.0.1 - - [13/Oct/2021 17:56:59] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 17:57:09,705:127.0.0.1 - - [13/Oct/2021 17:57:09] "[32mPOST /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 17:57:09,714:127.0.0.1 - - [13/Oct/2021 17:57:09] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 17:57:09,725:127.0.0.1 - - [13/Oct/2021 17:57:09] "GET /home HTTP/1.1" 200 -
+2021-10-13 17:57:09,774:127.0.0.1 - - [13/Oct/2021 17:57:09] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 17:57:09,776:127.0.0.1 - - [13/Oct/2021 17:57:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 17:57:18,195:127.0.0.1 - - [13/Oct/2021 17:57:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 17:57:18,221:127.0.0.1 - - [13/Oct/2021 17:57:18] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:57:20,079:127.0.0.1 - - [13/Oct/2021 17:57:20] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:57:28,666:127.0.0.1 - - [13/Oct/2021 17:57:28] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:57:35,509:127.0.0.1 - - [13/Oct/2021 17:57:35] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:57:53,577:127.0.0.1 - - [13/Oct/2021 17:57:53] "POST /login HTTP/1.1" 200 -
+2021-10-13 17:57:56,137:127.0.0.1 - - [13/Oct/2021 17:57:56] "GET /register HTTP/1.1" 200 -
+2021-10-13 17:57:58,035:127.0.0.1 - - [13/Oct/2021 17:57:58] "GET /login HTTP/1.1" 200 -
+2021-10-13 17:57:59,369:127.0.0.1 - - [13/Oct/2021 17:57:59] "[32mGET /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 17:57:59,384:127.0.0.1 - - [13/Oct/2021 17:57:59] "GET /login?next=%2Fupdatepass HTTP/1.1" 200 -
+2021-10-13 18:13:01,284: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 18:13:01,388: * Restarting with stat
+2021-10-13 18:13:02,382: * Debugger is active!
+2021-10-13 18:13:02,390: * Debugger PIN: 552-086-682
+2021-10-13 18:13:02,697: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 18:13:18,499:127.0.0.1 - - [13/Oct/2021 18:13:18] "GET / HTTP/1.1" 200 -
+2021-10-13 18:13:18,571:127.0.0.1 - - [13/Oct/2021 18:13:18] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:13:19,045:127.0.0.1 - - [13/Oct/2021 18:13:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:13:32,671:127.0.0.1 - - [13/Oct/2021 18:13:32] "GET /register HTTP/1.1" 200 -
+2021-10-13 18:13:40,938:127.0.0.1 - - [13/Oct/2021 18:13:40] "POST /register HTTP/1.1" 200 -
+2021-10-13 18:13:44,800:127.0.0.1 - - [13/Oct/2021 18:13:44] "GET /login HTTP/1.1" 200 -
+2021-10-13 18:13:55,603:127.0.0.1 - - [13/Oct/2021 18:13:55] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 18:13:55,622:127.0.0.1 - - [13/Oct/2021 18:13:55] "GET /home HTTP/1.1" 200 -
+2021-10-13 18:13:55,671:127.0.0.1 - - [13/Oct/2021 18:13:55] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:13:55,672:127.0.0.1 - - [13/Oct/2021 18:13:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:13:58,074:127.0.0.1 - - [13/Oct/2021 18:13:58] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 18:13:58,131:127.0.0.1 - - [13/Oct/2021 18:13:58] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 18:13:58,136:127.0.0.1 - - [13/Oct/2021 18:13:58] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 18:13:58,161:127.0.0.1 - - [13/Oct/2021 18:13:58] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 18:13:58,197:127.0.0.1 - - [13/Oct/2021 18:13:58] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 18:13:58,264:127.0.0.1 - - [13/Oct/2021 18:13:58] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 18:18:51,181:127.0.0.1 - - [13/Oct/2021 18:18:51] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 18:18:51,297:127.0.0.1 - - [13/Oct/2021 18:18:51] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 18:18:51,300:127.0.0.1 - - [13/Oct/2021 18:18:51] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 18:18:51,324:127.0.0.1 - - [13/Oct/2021 18:18:51] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 18:18:51,362:127.0.0.1 - - [13/Oct/2021 18:18:51] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 18:18:51,405:127.0.0.1 - - [13/Oct/2021 18:18:51] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 18:40:34,657: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 18:40:34,810: * Restarting with stat
+2021-10-13 18:40:35,742: * Debugger is active!
+2021-10-13 18:40:35,750: * Debugger PIN: 552-086-682
+2021-10-13 18:40:36,015: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 18:44:13,804:127.0.0.1 - - [13/Oct/2021 18:44:13] "GET / HTTP/1.1" 200 -
+2021-10-13 18:44:13,849:127.0.0.1 - - [13/Oct/2021 18:44:13] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:44:14,288:127.0.0.1 - - [13/Oct/2021 18:44:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:44:17,085:127.0.0.1 - - [13/Oct/2021 18:44:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 18:44:17,100:127.0.0.1 - - [13/Oct/2021 18:44:17] "GET /home HTTP/1.1" 200 -
+2021-10-13 18:44:17,150:127.0.0.1 - - [13/Oct/2021 18:44:17] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:44:17,151:127.0.0.1 - - [13/Oct/2021 18:44:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:44:19,463:127.0.0.1 - - [13/Oct/2021 18:44:19] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 18:44:19,494:127.0.0.1 - - [13/Oct/2021 18:44:19] "GET /register HTTP/1.1" 200 -
+2021-10-13 18:44:22,267:127.0.0.1 - - [13/Oct/2021 18:44:22] "GET /login HTTP/1.1" 200 -
+2021-10-13 18:44:31,964:127.0.0.1 - - [13/Oct/2021 18:44:31] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 18:44:31,977:127.0.0.1 - - [13/Oct/2021 18:44:31] "GET /home HTTP/1.1" 200 -
+2021-10-13 18:44:32,032:127.0.0.1 - - [13/Oct/2021 18:44:32] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:44:32,036:127.0.0.1 - - [13/Oct/2021 18:44:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:44:35,194:127.0.0.1 - - [13/Oct/2021 18:44:35] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 18:44:35,269:127.0.0.1 - - [13/Oct/2021 18:44:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 18:44:35,269:127.0.0.1 - - [13/Oct/2021 18:44:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 18:44:35,295:127.0.0.1 - - [13/Oct/2021 18:44:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 18:44:35,331:127.0.0.1 - - [13/Oct/2021 18:44:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 18:46:12,517: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 18:46:12,628: * Restarting with stat
+2021-10-13 18:46:13,529: * Debugger is active!
+2021-10-13 18:46:13,540: * Debugger PIN: 552-086-682
+2021-10-13 18:46:13,780: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 18:46:31,993:127.0.0.1 - - [13/Oct/2021 18:46:31] "GET / HTTP/1.1" 200 -
+2021-10-13 18:46:32,086:127.0.0.1 - - [13/Oct/2021 18:46:32] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:46:32,408:127.0.0.1 - - [13/Oct/2021 18:46:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:46:40,806:127.0.0.1 - - [13/Oct/2021 18:46:40] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 18:46:40,817:127.0.0.1 - - [13/Oct/2021 18:46:40] "GET /home HTTP/1.1" 200 -
+2021-10-13 18:46:40,867:127.0.0.1 - - [13/Oct/2021 18:46:40] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:46:40,868:127.0.0.1 - - [13/Oct/2021 18:46:40] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:46:42,821:127.0.0.1 - - [13/Oct/2021 18:46:42] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 18:46:42,883:127.0.0.1 - - [13/Oct/2021 18:46:42] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 18:46:42,884:127.0.0.1 - - [13/Oct/2021 18:46:42] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 18:46:42,904:127.0.0.1 - - [13/Oct/2021 18:46:42] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 18:46:42,926:127.0.0.1 - - [13/Oct/2021 18:46:42] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 18:47:47,805: * To enable the debugger you need to enter the security pin:
+2021-10-13 18:47:47,805: * Debugger pin code: 552-086-682
+2021-10-13 18:47:47,806:127.0.0.1 - - [13/Oct/2021 18:47:47] "GET /updatepass?__debugger__=yes&cmd=printpin&s=UZh4UPXetLlG5C8fohAc HTTP/1.1" 200 -
+2021-10-13 18:47:56,973:127.0.0.1 - - [13/Oct/2021 18:47:56] "GET /updatepass?__debugger__=yes&cmd=pinauth&pin=552-086-682&s=UZh4UPXetLlG5C8fohAc HTTP/1.1" 200 -
+2021-10-13 18:53:14,712:127.0.0.1 - - [13/Oct/2021 18:53:14] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 18:53:49,283:127.0.0.1 - - [13/Oct/2021 18:53:49] "[32mPOST /updatepass HTTP/1.1[0m" 302 -
+2021-10-13 18:53:49,294:127.0.0.1 - - [13/Oct/2021 18:53:49] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 18:53:49,304:127.0.0.1 - - [13/Oct/2021 18:53:49] "GET /home HTTP/1.1" 200 -
+2021-10-13 18:53:49,377:127.0.0.1 - - [13/Oct/2021 18:53:49] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 18:53:49,385:127.0.0.1 - - [13/Oct/2021 18:53:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 18:53:57,375:127.0.0.1 - - [13/Oct/2021 18:53:57] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 18:53:57,404:127.0.0.1 - - [13/Oct/2021 18:53:57] "GET /register HTTP/1.1" 200 -
+2021-10-13 18:54:08,084:127.0.0.1 - - [13/Oct/2021 18:54:08] "POST /register HTTP/1.1" 200 -
+2021-10-13 18:54:10,747:127.0.0.1 - - [13/Oct/2021 18:54:10] "GET /login HTTP/1.1" 200 -
+2021-10-13 18:54:19,236:127.0.0.1 - - [13/Oct/2021 18:54:19] "POST /login HTTP/1.1" 200 -
+2021-10-13 18:55:36,083:127.0.0.1 - - [13/Oct/2021 18:55:36] "POST /login HTTP/1.1" 200 -
+2021-10-13 19:18:46,411: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 19:18:46,568: * Restarting with stat
+2021-10-13 19:18:47,832: * Debugger is active!
+2021-10-13 19:18:47,843: * Debugger PIN: 552-086-682
+2021-10-13 19:18:48,109: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 19:19:09,169:127.0.0.1 - - [13/Oct/2021 19:19:09] "GET / HTTP/1.1" 200 -
+2021-10-13 19:19:09,294:127.0.0.1 - - [13/Oct/2021 19:19:09] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:19:09,669:127.0.0.1 - - [13/Oct/2021 19:19:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:19:12,255:127.0.0.1 - - [13/Oct/2021 19:19:12] "GET /login HTTP/1.1" 200 -
+2021-10-13 19:19:29,241:127.0.0.1 - - [13/Oct/2021 19:19:29] "POST /login HTTP/1.1" 200 -
+2021-10-13 19:20:12,936: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 19:20:13,023: * Restarting with stat
+2021-10-13 19:20:13,908: * Debugger is active!
+2021-10-13 19:20:13,919: * Debugger PIN: 552-086-682
+2021-10-13 19:20:14,268: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 19:20:20,245:127.0.0.1 - - [13/Oct/2021 19:20:20] "POST /login HTTP/1.1" 200 -
+2021-10-13 19:20:34,256:127.0.0.1 - - [13/Oct/2021 19:20:34] "GET / HTTP/1.1" 200 -
+2021-10-13 19:20:34,310:127.0.0.1 - - [13/Oct/2021 19:20:34] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:20:34,683:127.0.0.1 - - [13/Oct/2021 19:20:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:20:36,922:127.0.0.1 - - [13/Oct/2021 19:20:36] "GET /login HTTP/1.1" 200 -
+2021-10-13 19:20:45,293:127.0.0.1 - - [13/Oct/2021 19:20:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 19:20:45,316:127.0.0.1 - - [13/Oct/2021 19:20:45] "GET /home HTTP/1.1" 200 -
+2021-10-13 19:20:45,366:127.0.0.1 - - [13/Oct/2021 19:20:45] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:20:45,367:127.0.0.1 - - [13/Oct/2021 19:20:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:20:48,193:127.0.0.1 - - [13/Oct/2021 19:20:48] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 19:21:04,665:127.0.0.1 - - [13/Oct/2021 19:21:04] "POST /updatepass HTTP/1.1" 200 -
+2021-10-13 19:22:12,588: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 19:22:12,698: * Restarting with stat
+2021-10-13 19:22:13,591: * Debugger is active!
+2021-10-13 19:22:13,602: * Debugger PIN: 552-086-682
+2021-10-13 19:22:13,827: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 19:22:29,304:127.0.0.1 - - [13/Oct/2021 19:22:29] "GET / HTTP/1.1" 200 -
+2021-10-13 19:22:29,390:127.0.0.1 - - [13/Oct/2021 19:22:29] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:22:29,775:127.0.0.1 - - [13/Oct/2021 19:22:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:22:30,786:127.0.0.1 - - [13/Oct/2021 19:22:30] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 19:22:30,801:127.0.0.1 - - [13/Oct/2021 19:22:30] "GET /home HTTP/1.1" 200 -
+2021-10-13 19:22:30,850:127.0.0.1 - - [13/Oct/2021 19:22:30] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:22:30,851:127.0.0.1 - - [13/Oct/2021 19:22:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:22:33,087:127.0.0.1 - - [13/Oct/2021 19:22:33] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 19:22:33,179:127.0.0.1 - - [13/Oct/2021 19:22:33] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 19:22:33,187:127.0.0.1 - - [13/Oct/2021 19:22:33] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 19:22:33,243:127.0.0.1 - - [13/Oct/2021 19:22:33] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 19:22:33,281:127.0.0.1 - - [13/Oct/2021 19:22:33] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 19:22:33,367:127.0.0.1 - - [13/Oct/2021 19:22:33] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 19:36:58,463: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 19:36:58,576: * Restarting with stat
+2021-10-13 19:38:23,360: * Restarting with stat
+2021-10-13 19:38:24,232: * Debugger is active!
+2021-10-13 19:38:24,240: * Debugger PIN: 552-086-682
+2021-10-13 19:38:24,491: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 19:38:36,817:127.0.0.1 - - [13/Oct/2021 19:38:36] "GET / HTTP/1.1" 200 -
+2021-10-13 19:38:36,918:127.0.0.1 - - [13/Oct/2021 19:38:36] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:38:37,436:127.0.0.1 - - [13/Oct/2021 19:38:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:38:38,242:127.0.0.1 - - [13/Oct/2021 19:38:38] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 19:38:38,253:127.0.0.1 - - [13/Oct/2021 19:38:38] "GET /home HTTP/1.1" 200 -
+2021-10-13 19:38:38,310:127.0.0.1 - - [13/Oct/2021 19:38:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 19:38:38,312:127.0.0.1 - - [13/Oct/2021 19:38:38] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 19:38:40,406:127.0.0.1 - - [13/Oct/2021 19:38:40] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 19:38:40,481:127.0.0.1 - - [13/Oct/2021 19:38:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 19:38:40,482:127.0.0.1 - - [13/Oct/2021 19:38:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 19:38:40,510:127.0.0.1 - - [13/Oct/2021 19:38:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 19:38:40,614:127.0.0.1 - - [13/Oct/2021 19:38:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 20:41:38,753: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\tempCodeRunnerFile.py', reloading
+2021-10-13 20:41:39,099: * Restarting with stat
+2021-10-13 20:41:40,496: * Debugger is active!
+2021-10-13 20:41:40,523: * Debugger PIN: 552-086-682
+2021-10-13 20:41:40,845: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 20:41:54,128:127.0.0.1 - - [13/Oct/2021 20:41:54] "GET / HTTP/1.1" 200 -
+2021-10-13 20:41:54,270:127.0.0.1 - - [13/Oct/2021 20:41:54] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 20:41:54,716:127.0.0.1 - - [13/Oct/2021 20:41:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 20:41:57,223:127.0.0.1 - - [13/Oct/2021 20:41:57] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 20:41:57,246:127.0.0.1 - - [13/Oct/2021 20:41:57] "GET /home HTTP/1.1" 200 -
+2021-10-13 20:41:57,299:127.0.0.1 - - [13/Oct/2021 20:41:57] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 20:41:57,300:127.0.0.1 - - [13/Oct/2021 20:41:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 20:42:03,130:127.0.0.1 - - [13/Oct/2021 20:42:03] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 20:42:03,196:127.0.0.1 - - [13/Oct/2021 20:42:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 20:42:03,209:127.0.0.1 - - [13/Oct/2021 20:42:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 20:42:03,239:127.0.0.1 - - [13/Oct/2021 20:42:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 20:42:03,312:127.0.0.1 - - [13/Oct/2021 20:42:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 21:41:36,118: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 21:41:36,492: * Restarting with stat
+2021-10-13 21:41:38,106: * Debugger is active!
+2021-10-13 21:41:38,122: * Debugger PIN: 552-086-682
+2021-10-13 21:41:38,404: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 21:41:45,920:127.0.0.1 - - [13/Oct/2021 21:41:45] "GET / HTTP/1.1" 200 -
+2021-10-13 21:41:46,066:127.0.0.1 - - [13/Oct/2021 21:41:46] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 21:41:46,489:127.0.0.1 - - [13/Oct/2021 21:41:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 21:41:47,684:127.0.0.1 - - [13/Oct/2021 21:41:47] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 21:41:47,700:127.0.0.1 - - [13/Oct/2021 21:41:47] "GET /home HTTP/1.1" 200 -
+2021-10-13 21:41:47,772:127.0.0.1 - - [13/Oct/2021 21:41:47] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 21:41:47,780:127.0.0.1 - - [13/Oct/2021 21:41:47] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 21:41:51,961:127.0.0.1 - - [13/Oct/2021 21:41:51] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 21:41:52,010:127.0.0.1 - - [13/Oct/2021 21:41:52] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 21:41:52,018:127.0.0.1 - - [13/Oct/2021 21:41:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 21:41:54,030:127.0.0.1 - - [13/Oct/2021 21:41:54] "GET /updatepass HTTP/1.1" 200 -
+2021-10-13 21:41:54,086:127.0.0.1 - - [13/Oct/2021 21:41:54] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 21:41:54,086:127.0.0.1 - - [13/Oct/2021 21:41:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 21:42:24,360: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 21:42:24,548: * Restarting with stat
+2021-10-13 21:42:26,479: * Debugger is active!
+2021-10-13 21:42:26,510: * Debugger PIN: 552-086-682
+2021-10-13 21:42:27,116: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 21:42:36,490:127.0.0.1 - - [13/Oct/2021 21:42:36] "GET / HTTP/1.1" 200 -
+2021-10-13 21:42:36,558:127.0.0.1 - - [13/Oct/2021 21:42:36] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 21:42:36,983:127.0.0.1 - - [13/Oct/2021 21:42:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 21:42:48,209:127.0.0.1 - - [13/Oct/2021 21:42:48] "[32mGET /register HTTP/1.1[0m" 302 -
+2021-10-13 21:42:48,225:127.0.0.1 - - [13/Oct/2021 21:42:48] "GET /home HTTP/1.1" 200 -
+2021-10-13 21:42:48,297:127.0.0.1 - - [13/Oct/2021 21:42:48] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 21:42:48,297:127.0.0.1 - - [13/Oct/2021 21:42:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 21:42:57,252:127.0.0.1 - - [13/Oct/2021 21:42:57] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 21:42:57,327:127.0.0.1 - - [13/Oct/2021 21:42:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 21:42:57,327:127.0.0.1 - - [13/Oct/2021 21:42:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 21:42:57,353:127.0.0.1 - - [13/Oct/2021 21:42:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 21:42:57,425:127.0.0.1 - - [13/Oct/2021 21:42:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 21:42:57,503:127.0.0.1 - - [13/Oct/2021 21:42:57] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:04:13,113: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 22:04:13,324: * Restarting with stat
+2021-10-13 22:04:14,886: * Debugger is active!
+2021-10-13 22:04:14,902: * Debugger PIN: 552-086-682
+2021-10-13 22:04:15,310: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:04:35,137:127.0.0.1 - - [13/Oct/2021 22:04:35] "GET / HTTP/1.1" 200 -
+2021-10-13 22:04:35,190:127.0.0.1 - - [13/Oct/2021 22:04:35] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:04:35,495:127.0.0.1 - - [13/Oct/2021 22:04:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:04:37,024:127.0.0.1 - - [13/Oct/2021 22:04:37] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:04:37,040:127.0.0.1 - - [13/Oct/2021 22:04:37] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:04:37,100:127.0.0.1 - - [13/Oct/2021 22:04:37] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:04:37,100:127.0.0.1 - - [13/Oct/2021 22:04:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:04:39,222:127.0.0.1 - - [13/Oct/2021 22:04:39] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:04:39,285:127.0.0.1 - - [13/Oct/2021 22:04:39] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:04:39,285:127.0.0.1 - - [13/Oct/2021 22:04:39] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:04:39,317:127.0.0.1 - - [13/Oct/2021 22:04:39] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:04:39,343:127.0.0.1 - - [13/Oct/2021 22:04:39] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 22:08:47,207: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 22:08:47,326: * Restarting with stat
+2021-10-13 22:08:48,429: * Debugger is active!
+2021-10-13 22:08:48,453: * Debugger PIN: 552-086-682
+2021-10-13 22:08:48,870: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:08:57,454:127.0.0.1 - - [13/Oct/2021 22:08:57] "GET / HTTP/1.1" 200 -
+2021-10-13 22:08:57,542:127.0.0.1 - - [13/Oct/2021 22:08:57] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:08:58,022:127.0.0.1 - - [13/Oct/2021 22:08:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:08:59,342:127.0.0.1 - - [13/Oct/2021 22:08:59] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:08:59,361:127.0.0.1 - - [13/Oct/2021 22:08:59] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:08:59,417:127.0.0.1 - - [13/Oct/2021 22:08:59] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:08:59,425:127.0.0.1 - - [13/Oct/2021 22:08:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:09:01,695:127.0.0.1 - - [13/Oct/2021 22:09:01] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 22:09:01,719:127.0.0.1 - - [13/Oct/2021 22:09:01] "GET /register HTTP/1.1" 200 -
+2021-10-13 22:09:03,386:127.0.0.1 - - [13/Oct/2021 22:09:03] "GET /login HTTP/1.1" 200 -
+2021-10-13 22:09:13,514:127.0.0.1 - - [13/Oct/2021 22:09:13] "POST /login HTTP/1.1" 200 -
+2021-10-13 22:09:19,933:127.0.0.1 - - [13/Oct/2021 22:09:19] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 22:09:19,949:127.0.0.1 - - [13/Oct/2021 22:09:19] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:09:19,989:127.0.0.1 - - [13/Oct/2021 22:09:19] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:09:19,997:127.0.0.1 - - [13/Oct/2021 22:09:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:28:58,862: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 22:28:59,155: * Restarting with stat
+2021-10-13 22:29:00,937: * Debugger is active!
+2021-10-13 22:29:00,953: * Debugger PIN: 552-086-682
+2021-10-13 22:29:01,643: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:29:15,518:127.0.0.1 - - [13/Oct/2021 22:29:15] "GET / HTTP/1.1" 200 -
+2021-10-13 22:29:15,640:127.0.0.1 - - [13/Oct/2021 22:29:15] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:29:16,008:127.0.0.1 - - [13/Oct/2021 22:29:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:29:17,304:127.0.0.1 - - [13/Oct/2021 22:29:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:29:17,320:127.0.0.1 - - [13/Oct/2021 22:29:17] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:29:17,426:127.0.0.1 - - [13/Oct/2021 22:29:17] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:29:17,426:127.0.0.1 - - [13/Oct/2021 22:29:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:29:19,314:127.0.0.1 - - [13/Oct/2021 22:29:19] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:29:19,407:127.0.0.1 - - [13/Oct/2021 22:29:19] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:29:19,407:127.0.0.1 - - [13/Oct/2021 22:29:19] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:29:19,435:127.0.0.1 - - [13/Oct/2021 22:29:19] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:29:19,491:127.0.0.1 - - [13/Oct/2021 22:29:19] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 22:37:11,912: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 22:37:12,012: * Restarting with stat
+2021-10-13 22:37:13,100: * Debugger is active!
+2021-10-13 22:37:13,108: * Debugger PIN: 552-086-682
+2021-10-13 22:37:13,392: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:37:25,192:127.0.0.1 - - [13/Oct/2021 22:37:25] "GET / HTTP/1.1" 200 -
+2021-10-13 22:37:25,302:127.0.0.1 - - [13/Oct/2021 22:37:25] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:37:25,676:127.0.0.1 - - [13/Oct/2021 22:37:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:37:27,788:127.0.0.1 - - [13/Oct/2021 22:37:27] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:37:27,804:127.0.0.1 - - [13/Oct/2021 22:37:27] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:37:27,860:127.0.0.1 - - [13/Oct/2021 22:37:27] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:37:27,860:127.0.0.1 - - [13/Oct/2021 22:37:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:37:29,595:127.0.0.1 - - [13/Oct/2021 22:37:29] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:37:29,681:127.0.0.1 - - [13/Oct/2021 22:37:29] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:37:29,697:127.0.0.1 - - [13/Oct/2021 22:37:29] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:37:29,801:127.0.0.1 - - [13/Oct/2021 22:37:29] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:37:29,855:127.0.0.1 - - [13/Oct/2021 22:37:29] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 22:47:56,583:127.0.0.1 - - [13/Oct/2021 22:47:56] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:47:56,659:127.0.0.1 - - [13/Oct/2021 22:47:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:47:56,659:127.0.0.1 - - [13/Oct/2021 22:47:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:47:56,683:127.0.0.1 - - [13/Oct/2021 22:47:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:47:56,737:127.0.0.1 - - [13/Oct/2021 22:47:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 22:51:04,143: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 22:51:04,258: * Restarting with stat
+2021-10-13 22:51:06,259: * Debugger is active!
+2021-10-13 22:51:06,283: * Debugger PIN: 552-086-682
+2021-10-13 22:51:06,912: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:51:34,639:127.0.0.1 - - [13/Oct/2021 22:51:34] "GET / HTTP/1.1" 200 -
+2021-10-13 22:51:34,725:127.0.0.1 - - [13/Oct/2021 22:51:34] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:51:35,144:127.0.0.1 - - [13/Oct/2021 22:51:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:51:36,588:127.0.0.1 - - [13/Oct/2021 22:51:36] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:51:36,604:127.0.0.1 - - [13/Oct/2021 22:51:36] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:51:36,652:127.0.0.1 - - [13/Oct/2021 22:51:36] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:51:36,652:127.0.0.1 - - [13/Oct/2021 22:51:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:51:40,046:127.0.0.1 - - [13/Oct/2021 22:51:40] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:51:40,121:127.0.0.1 - - [13/Oct/2021 22:51:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:51:40,121:127.0.0.1 - - [13/Oct/2021 22:51:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:51:40,142:127.0.0.1 - - [13/Oct/2021 22:51:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:51:40,182:127.0.0.1 - - [13/Oct/2021 22:51:40] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 22:54:15,880: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 22:54:16,038: * Restarting with stat
+2021-10-13 22:54:17,365: * Debugger is active!
+2021-10-13 22:54:17,381: * Debugger PIN: 552-086-682
+2021-10-13 22:54:17,789: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:54:32,515:127.0.0.1 - - [13/Oct/2021 22:54:32] "GET / HTTP/1.1" 200 -
+2021-10-13 22:54:32,612:127.0.0.1 - - [13/Oct/2021 22:54:32] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:54:33,001:127.0.0.1 - - [13/Oct/2021 22:54:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:54:35,060:127.0.0.1 - - [13/Oct/2021 22:54:35] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:54:35,076:127.0.0.1 - - [13/Oct/2021 22:54:35] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:54:35,156:127.0.0.1 - - [13/Oct/2021 22:54:35] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:54:35,156:127.0.0.1 - - [13/Oct/2021 22:54:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:54:38,571:127.0.0.1 - - [13/Oct/2021 22:54:38] "[32mGET /logout HTTP/1.1[0m" 302 -
+2021-10-13 22:54:38,595:127.0.0.1 - - [13/Oct/2021 22:54:38] "GET /register HTTP/1.1" 200 -
+2021-10-13 22:54:40,644:127.0.0.1 - - [13/Oct/2021 22:54:40] "GET /login HTTP/1.1" 200 -
+2021-10-13 22:54:48,668:127.0.0.1 - - [13/Oct/2021 22:54:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-13 22:54:48,676:127.0.0.1 - - [13/Oct/2021 22:54:48] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:54:48,724:127.0.0.1 - - [13/Oct/2021 22:54:48] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:54:48,724:127.0.0.1 - - [13/Oct/2021 22:54:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:54:52,147:127.0.0.1 - - [13/Oct/2021 22:54:52] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:54:52,219:127.0.0.1 - - [13/Oct/2021 22:54:52] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:54:52,227:127.0.0.1 - - [13/Oct/2021 22:54:52] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:54:52,245:127.0.0.1 - - [13/Oct/2021 22:54:52] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:54:52,258:127.0.0.1 - - [13/Oct/2021 22:54:52] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 22:58:19,000: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 22:58:19,091: * Restarting with stat
+2021-10-13 22:58:20,102: * Debugger is active!
+2021-10-13 22:58:20,110: * Debugger PIN: 552-086-682
+2021-10-13 22:58:20,490: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 22:58:30,071:127.0.0.1 - - [13/Oct/2021 22:58:30] "GET / HTTP/1.1" 200 -
+2021-10-13 22:58:30,156:127.0.0.1 - - [13/Oct/2021 22:58:30] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:58:30,479:127.0.0.1 - - [13/Oct/2021 22:58:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:58:33,099:127.0.0.1 - - [13/Oct/2021 22:58:33] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 22:58:33,111:127.0.0.1 - - [13/Oct/2021 22:58:33] "GET /home HTTP/1.1" 200 -
+2021-10-13 22:58:33,163:127.0.0.1 - - [13/Oct/2021 22:58:33] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 22:58:33,163:127.0.0.1 - - [13/Oct/2021 22:58:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 22:58:36,079:127.0.0.1 - - [13/Oct/2021 22:58:36] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 22:58:36,138:127.0.0.1 - - [13/Oct/2021 22:58:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 22:58:36,140:127.0.0.1 - - [13/Oct/2021 22:58:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 22:58:36,157:127.0.0.1 - - [13/Oct/2021 22:58:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 22:58:36,206:127.0.0.1 - - [13/Oct/2021 22:58:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 23:06:21,990: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\forms.py', reloading
+2021-10-13 23:06:22,158: * Restarting with stat
+2021-10-13 23:06:23,243: * Debugger is active!
+2021-10-13 23:06:23,253: * Debugger PIN: 552-086-682
+2021-10-13 23:06:23,491: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 23:17:03,318: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 23:17:03,408: * Restarting with stat
+2021-10-13 23:17:04,356: * Debugger is active!
+2021-10-13 23:17:04,365: * Debugger PIN: 552-086-682
+2021-10-13 23:17:05,068: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-13 23:17:25,266:127.0.0.1 - - [13/Oct/2021 23:17:25] "GET / HTTP/1.1" 200 -
+2021-10-13 23:17:25,319:127.0.0.1 - - [13/Oct/2021 23:17:25] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 23:17:25,648:127.0.0.1 - - [13/Oct/2021 23:17:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 23:17:33,813:127.0.0.1 - - [13/Oct/2021 23:17:33] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-13 23:17:33,826:127.0.0.1 - - [13/Oct/2021 23:17:33] "GET /home HTTP/1.1" 200 -
+2021-10-13 23:17:33,891:127.0.0.1 - - [13/Oct/2021 23:17:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-13 23:17:33,894:127.0.0.1 - - [13/Oct/2021 23:17:33] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-13 23:17:36,037:127.0.0.1 - - [13/Oct/2021 23:17:36] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-13 23:17:36,098:127.0.0.1 - - [13/Oct/2021 23:17:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-13 23:17:36,098:127.0.0.1 - - [13/Oct/2021 23:17:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-13 23:17:36,117:127.0.0.1 - - [13/Oct/2021 23:17:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-13 23:17:36,140:127.0.0.1 - - [13/Oct/2021 23:17:36] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-13 23:45:12,233: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-13 23:45:12,421: * Restarting with stat
+2021-10-13 23:45:13,564: * Debugger is active!
+2021-10-13 23:45:13,577: * Debugger PIN: 552-086-682
+2021-10-13 23:45:13,863: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-14 18:56:15,916:127.0.0.1 - - [14/Oct/2021 18:56:15] "GET / HTTP/1.1" 200 -
+2021-10-14 18:56:15,992:127.0.0.1 - - [14/Oct/2021 18:56:15] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 18:56:16,532:127.0.0.1 - - [14/Oct/2021 18:56:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 18:56:16,862:127.0.0.1 - - [14/Oct/2021 18:56:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-14 18:56:19,173:127.0.0.1 - - [14/Oct/2021 18:56:19] "GET /login HTTP/1.1" 200 -
+2021-10-14 18:56:30,614:127.0.0.1 - - [14/Oct/2021 18:56:30] "[32mPOST /login HTTP/1.1[0m" 302 -
+2021-10-14 18:56:30,677:127.0.0.1 - - [14/Oct/2021 18:56:30] "GET /home HTTP/1.1" 200 -
+2021-10-14 18:56:30,718:127.0.0.1 - - [14/Oct/2021 18:56:30] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 18:56:30,720:127.0.0.1 - - [14/Oct/2021 18:56:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 18:56:35,268:127.0.0.1 - - [14/Oct/2021 18:56:35] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-14 18:56:35,359:127.0.0.1 - - [14/Oct/2021 18:56:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-14 18:56:35,415:127.0.0.1 - - [14/Oct/2021 18:56:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-14 18:56:35,446:127.0.0.1 - - [14/Oct/2021 18:56:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 18:56:35,556:127.0.0.1 - - [14/Oct/2021 18:56:35] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-14 19:00:41,607: * To enable the debugger you need to enter the security pin:
+2021-10-14 19:00:41,607: * Debugger pin code: 552-086-682
+2021-10-14 19:00:41,608:127.0.0.1 - - [14/Oct/2021 19:00:41] "GET /updatepass?__debugger__=yes&cmd=printpin&s=KPLm6e8Iri8cNn8CqzY4 HTTP/1.1" 200 -
+2021-10-14 19:00:55,611:127.0.0.1 - - [14/Oct/2021 19:00:55] "GET /updatepass?__debugger__=yes&cmd=pinauth&pin=552-086-682&s=KPLm6e8Iri8cNn8CqzY4 HTTP/1.1" 200 -
+2021-10-14 20:38:03,426:127.0.0.1 - - [14/Oct/2021 20:38:03] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-14 20:38:03,542:127.0.0.1 - - [14/Oct/2021 20:38:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-14 20:38:03,542:127.0.0.1 - - [14/Oct/2021 20:38:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-14 20:38:03,578:127.0.0.1 - - [14/Oct/2021 20:38:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 20:38:03,618:127.0.0.1 - - [14/Oct/2021 20:38:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-14 20:38:03,646:127.0.0.1 - - [14/Oct/2021 20:38:03] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 21:07:05,711: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-14 21:07:06,423: * Restarting with stat
+2021-10-14 21:07:08,150: * Debugger is active!
+2021-10-14 21:07:08,167: * Debugger PIN: 552-086-682
+2021-10-14 21:07:08,535: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-14 21:07:24,271:127.0.0.1 - - [14/Oct/2021 21:07:24] "GET / HTTP/1.1" 200 -
+2021-10-14 21:07:24,324:127.0.0.1 - - [14/Oct/2021 21:07:24] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:07:24,728:127.0.0.1 - - [14/Oct/2021 21:07:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:07:27,831:127.0.0.1 - - [14/Oct/2021 21:07:27] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-14 21:07:27,847:127.0.0.1 - - [14/Oct/2021 21:07:27] "GET /home HTTP/1.1" 200 -
+2021-10-14 21:07:27,879:127.0.0.1 - - [14/Oct/2021 21:07:27] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:07:27,879:127.0.0.1 - - [14/Oct/2021 21:07:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:07:30,082:127.0.0.1 - - [14/Oct/2021 21:07:30] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-14 21:07:30,120:127.0.0.1 - - [14/Oct/2021 21:07:30] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-14 21:07:30,120:127.0.0.1 - - [14/Oct/2021 21:07:30] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-14 21:07:30,143:127.0.0.1 - - [14/Oct/2021 21:07:30] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 21:07:30,161:127.0.0.1 - - [14/Oct/2021 21:07:30] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-14 21:16:45,111: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-14 21:16:45,195: * Restarting with stat
+2021-10-14 21:16:46,085: * Debugger is active!
+2021-10-14 21:16:46,101: * Debugger PIN: 552-086-682
+2021-10-14 21:16:46,357: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-14 21:17:12,197:127.0.0.1 - - [14/Oct/2021 21:17:12] "GET / HTTP/1.1" 200 -
+2021-10-14 21:17:12,290:127.0.0.1 - - [14/Oct/2021 21:17:12] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:17:12,568:127.0.0.1 - - [14/Oct/2021 21:17:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:17:14,012:127.0.0.1 - - [14/Oct/2021 21:17:14] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-14 21:17:14,020:127.0.0.1 - - [14/Oct/2021 21:17:14] "GET /home HTTP/1.1" 200 -
+2021-10-14 21:17:14,076:127.0.0.1 - - [14/Oct/2021 21:17:14] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:17:14,076:127.0.0.1 - - [14/Oct/2021 21:17:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:17:16,154:127.0.0.1 - - [14/Oct/2021 21:17:16] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-14 21:17:16,188:127.0.0.1 - - [14/Oct/2021 21:17:16] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-14 21:17:16,196:127.0.0.1 - - [14/Oct/2021 21:17:16] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-14 21:17:16,209:127.0.0.1 - - [14/Oct/2021 21:17:16] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 21:17:16,239:127.0.0.1 - - [14/Oct/2021 21:17:16] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-14 21:21:52,037: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-14 21:21:52,179: * Restarting with stat
+2021-10-14 21:21:53,667: * Debugger is active!
+2021-10-14 21:21:53,683: * Debugger PIN: 552-086-682
+2021-10-14 21:21:53,940: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-14 21:22:10,564:127.0.0.1 - - [14/Oct/2021 21:22:10] "GET / HTTP/1.1" 200 -
+2021-10-14 21:22:10,613:127.0.0.1 - - [14/Oct/2021 21:22:10] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:22:10,991:127.0.0.1 - - [14/Oct/2021 21:22:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:22:12,479:127.0.0.1 - - [14/Oct/2021 21:22:12] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-14 21:22:12,487:127.0.0.1 - - [14/Oct/2021 21:22:12] "GET /home HTTP/1.1" 200 -
+2021-10-14 21:22:12,519:127.0.0.1 - - [14/Oct/2021 21:22:12] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:22:12,519:127.0.0.1 - - [14/Oct/2021 21:22:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:22:14,934:127.0.0.1 - - [14/Oct/2021 21:22:14] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-14 21:22:14,977:127.0.0.1 - - [14/Oct/2021 21:22:14] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-14 21:22:14,977:127.0.0.1 - - [14/Oct/2021 21:22:14] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-14 21:22:14,991:127.0.0.1 - - [14/Oct/2021 21:22:14] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 21:22:15,019:127.0.0.1 - - [14/Oct/2021 21:22:15] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-14 21:22:43,659: * Detected change in 'c:\\Users\\cames\\Desktop\\flasktest\\myapp.py', reloading
+2021-10-14 21:22:43,792: * Restarting with stat
+2021-10-14 21:22:44,758: * Debugger is active!
+2021-10-14 21:22:44,774: * Debugger PIN: 552-086-682
+2021-10-14 21:22:45,030: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-14 21:22:50,647:127.0.0.1 - - [14/Oct/2021 21:22:50] "GET / HTTP/1.1" 200 -
+2021-10-14 21:22:50,679:127.0.0.1 - - [14/Oct/2021 21:22:50] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:22:50,905:127.0.0.1 - - [14/Oct/2021 21:22:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:22:53,058:127.0.0.1 - - [14/Oct/2021 21:22:53] "[32mGET /login HTTP/1.1[0m" 302 -
+2021-10-14 21:22:53,066:127.0.0.1 - - [14/Oct/2021 21:22:53] "GET /home HTTP/1.1" 200 -
+2021-10-14 21:22:53,122:127.0.0.1 - - [14/Oct/2021 21:22:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2021-10-14 21:22:53,122:127.0.0.1 - - [14/Oct/2021 21:22:53] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2021-10-14 21:22:55,744:127.0.0.1 - - [14/Oct/2021 21:22:55] "[35m[1mGET /updatepass HTTP/1.1[0m" 500 -
+2021-10-14 21:22:55,793:127.0.0.1 - - [14/Oct/2021 21:22:55] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-14 21:22:55,793:127.0.0.1 - - [14/Oct/2021 21:22:55] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-14 21:22:55,801:127.0.0.1 - - [14/Oct/2021 21:22:55] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-14 21:22:55,837:127.0.0.1 - - [14/Oct/2021 21:22:55] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2021-10-16 22:46:56,798:127.0.0.1 - - [16/Oct/2021 22:46:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2021-10-16 22:46:56,846:127.0.0.1 - - [16/Oct/2021 22:46:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2021-10-16 22:46:56,901:127.0.0.1 - - [16/Oct/2021 22:46:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2021-10-16 22:46:56,973:127.0.0.1 - - [16/Oct/2021 22:46:56] "GET /updatepass?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2022-06-24 00:29:35,820: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-24 00:29:35,872: * Restarting with stat
+2022-06-24 00:29:41,075: * Debugger is active!
+2022-06-24 00:29:41,090: * Debugger PIN: 467-850-048
+2022-06-24 00:32:56,860: * Detected change in 'C:\\Users\\cames\\OneDrive\\Desktop\\flasktest\\myapp.py', reloading
+2022-06-24 00:32:57,070: * Restarting with stat
+2022-06-24 00:32:59,403: * Debugger is active!
+2022-06-24 00:32:59,417: * Debugger PIN: 467-850-048
+2022-06-24 00:33:11,250: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-24 00:33:11,257: * Restarting with stat
+2022-06-24 00:33:13,069: * Debugger is active!
+2022-06-24 00:33:13,078: * Debugger PIN: 467-850-048
+2022-06-24 00:35:56,560: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+2022-06-24 00:35:56,571: * Restarting with stat
+2022-06-24 00:35:58,198: * Debugger is active!
+2022-06-24 00:35:58,208: * Debugger PIN: 467-850-048
+2022-06-24 00:41:50,256:127.0.0.1 - - [24/Jun/2022 00:41:50] "GET / HTTP/1.1" 200 -
+2022-06-24 00:41:50,303:127.0.0.1 - - [24/Jun/2022 00:41:50] "[33mGET /main.js HTTP/1.1[0m" 404 -
+2022-06-24 00:41:50,488:127.0.0.1 - - [24/Jun/2022 00:41:50] "GET /static/style.css HTTP/1.1" 200 -
+2022-06-24 00:41:50,680:127.0.0.1 - - [24/Jun/2022 00:41:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-06-24 00:41:56,558:127.0.0.1 - - [24/Jun/2022 00:41:56] "GET /login HTTP/1.1" 200 -
+2022-06-24 00:46:58,416: * Detected change in 'c:\\Users\\cames\\OneDrive\\Desktop\\flasktest\\myapp.py', reloading
+2022-06-24 00:46:59,271: * Restarting with stat
+2022-06-24 00:47:02,277: * Debugger is active!
+2022-06-24 00:47:02,296: * Debugger PIN: 467-850-048

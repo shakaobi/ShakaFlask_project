@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Welcome</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='static/style.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <header>
+        <p>Welcome To Stats Website</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="{{url_for('login')}}">Already have an account? Sign in</a></li><br>
+            <li><a href="{{url_for('register')}}">Don't have an account? Sign up</a></li><br>   
+        </ul>
+    </nav><!--gives user the choice for signup or login -->
+    <div class="container w-50">
+        {%with messages=get_flashed_messages(with_categories=true)%}
+            {%if messages%}
+                {%for category, message in messages%}
+                    <div class="alert alert-{{category}}">
+                        {{message}}
+                    </div>
+                {%endfor%}
+            {%endif%}
+        {%endwith%}
+    </div>
+</body>
+</html>
